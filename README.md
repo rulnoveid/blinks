@@ -27,4 +27,4 @@
 Copy the entire contents of the [blinks.xml](https://github.com/rulnoveid/blinks/blob/main/themes/blinks/blinks.xml) file , then go to the Themes section of your Blogger admin panel and use the Edit HTML option , paste the previously copied code and save the changes.
 
 ## Support
-If this place is useful. You can [buy me a coffee](https://ko-fi.com/inputekno) ☕. I would thank you very much 👏.
+This template is free! but if you could [buy me a coffee](https://ko-fi.com/inputekno) ☕. I would thank you very much 👏.
