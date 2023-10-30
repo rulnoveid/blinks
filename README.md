@@ -19,8 +19,12 @@
 - Light and dark mode.
 - Fully responsive design.
 - Very easy to use
-- Dropdown Menu
+- Dropdown list
+- Online documentation
 
 ## Instal
 
 Copy the entire contents of the [blinks.xml](https://github.com/rulnoveid/blinks/blob/main/themes/blinks/blinks.xml) file , then go to the Themes section of your Blogger admin panel and use the Edit HTML option , paste the previously copied code and save the changes.
+
+## Support
+If this place is useful. You can [buy me a coffee](https://ko-fi.com/inputekno) ☕. I would thank you very much 👏.
