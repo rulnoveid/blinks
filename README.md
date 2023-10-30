@@ -9,7 +9,7 @@
   <p>
     <a href="https://github.com/rulnoveid/blinks/releases"><img src="https://img.shields.io/github/v/release/rulnoveid/blinks" alt="Release"></a>
     <a href="https://github.com/rulnoveid/blinks/blob/main/LICENSE"><img src="https://img.shields.io/github/license/rulnoveid/blinks" alt="LICENSE"></a>
-    <a href="https://github.com/rulnoveid/blinks/stargazers"><img src="https://img.shields.io/github/stars/rulnoveid/blinks" alt="STARS">
+    <a href="https://github.com/rulnoveid/blinks/stargazers"><img src="https://img.shields.io/github/stars/rulnoveid/blinks" alt="STARS"></a>
   </p>
 </div>
 
