@@ -416,7 +416,7 @@ body{font-family:var(--font-secondary);font-size:var(--font-size);min-height:100
             <b:elseif cond='(data:link.name in [&quot;twitter&quot;]) or (data:link.target contains &quot;//twitter.&quot;)'/>
             <b:include data='{ icon: &quot;twitter&quot; }' name='i:svg'/>
 
-            <b:elseif cond='(data:link.name in [&quot;youTube&quot;]) or (data:link.target contains &quot;//www.youtube.&quot;)'/>
+            <b:elseif cond='(data:link.name in [&quot;youtube&quot;]) or (data:link.target contains &quot;//www.youtube.&quot;)'/>
             <b:include data='{ icon: &quot;youtube&quot; }' name='i:svg'/>
 
             <b:elseif cond='(data:link.name in [&quot;linkedin&quot;]) or (data:link.target contains &quot;//www.linkedin.&quot;)'/>
