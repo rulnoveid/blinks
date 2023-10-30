@@ -1,0 +1,2 @@
+# blinks
+Linktree Blogger Template
