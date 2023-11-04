@@ -19,8 +19,11 @@
 - Light and dark mode.
 - Fully responsive design.
 - Very easy to use
-- Dropdown list
-- Online documentation
+- Add Links in Widget
+- Support Dropdown list
+- Support Sticky profile
+- Custom profile
+- [Online documentation](https://www.inputekno.com/2023/10/blinks-blogger-linktree-template.html) 📖
 
 ## Instal
 
