@@ -496,10 +496,10 @@ body{font-family:var(--font-secondary);font-size:var(--font-size);min-height:100
         <b:includable id='post-authorImage'>
           <b:tag class='hasImage' expr:alt='data:title ? data:title : data:messages.image' name='img'>
             <b:class cond='data:view.url != data:view.url params { amp: &quot;1&quot; }' name='lazy'/>
-            <b:attr cond='data:view.url == data:view.url' expr:value='resizeImage(data:sourceUrl,20,&quot;1:1&quot;)' name='data-src'/>
+            <b:attr cond='data:view.url == data:view.url' expr:value='resizeImage(data:sourceUrl,150,&quot;1:1&quot;)' name='data-src'/>
             <b:attr cond='data:view.url == data:view.url' name='src' value='data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs='/>
           </b:tag>
-          <noscript><img class='hasImage' expr:alt='data:title ? data:title : data:messages.image' expr:src='resizeImage(data:sourceUrl,20,&quot;1:1&quot;)'/></noscript>
+          <noscript><img class='hasImage' expr:alt='data:title ? data:title : data:messages.image' expr:src='resizeImage(data:sourceUrl,150,&quot;1:1&quot;)'/></noscript>
         </b:includable>
         
         <b:includable id='widget-profile'>
